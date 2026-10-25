@@ -19,7 +19,7 @@ Visual style inspired by **@BkashJosi** —
 ## Features
 
 - **Document presets**: 1080×1080, 1080×1350, 1080×1920, 1920×1080, A4 (150/300 dpi), custom; portrait/landscape toggle.
-- **Text** anywhere (drag to move): Anton, Instrument Sans, JetBrains Mono (bundled, offline), weight (only real weights — no faux bold), size, colour, letter-spacing, line-height, uppercase, alignment.
+- **Text** anywhere (drag to move): Anton, Instrument Sans, JetBrains Mono (bundled, offline), weight (only real weights — no faux bold), size, colour, letter-spacing, line-height, uppercase, alignment (left / center / right / justify / justify incl. last line), optional hyphenation.
 - **Boxes / cards**: resizable, background, border, radius, left accent bar (colour/width), configurable shadow (colour, opacity, blur, X/Y offset, spread).
 - **Images** (PNG/JPG, drag & drop or file picker): keep-proportions lock (Shift toggles), contain / cover / stretch, opacity, radius, border, left bar, shadow in *frame* or *outline* (drop-shadow, follows transparent PNG shape) mode.
 - **Presets** matching the reference style: *Day card*, *Stat box*, *Pill*.
