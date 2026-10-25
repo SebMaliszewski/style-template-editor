@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+settings.json
+out/*
+!out/.gitkeep
+assets/*
+!assets/.gitkeep
+templates/*
+!templates/example.json
+static/_r_*.html
+.venv/

@@ -1,0 +1,6 @@
+/* Fonty: Anton, Instrument Sans, JetBrains Mono — SIL OFL 1.1 (fonts/OFL.txt) */
+/* font-synthesis:none — przeglądarka nie dorabia sztucznego bold/italic (Firefox zlewał kropkę nad "i" w Antonie przy weight>400) */
+html,body,*{font-synthesis:none}
+@font-face{font-family:"NT Anton";src:url(fonts/Anton.woff2) format("woff2");font-weight:400}
+@font-face{font-family:"NT Instrument Sans";src:url(fonts/InstrumentSans.woff2) format("woff2");font-weight:400 700}
+@font-face{font-family:"NT JetBrains Mono";src:url(fonts/JetBrainsMono.woff2) format("woff2");font-weight:100 800}
