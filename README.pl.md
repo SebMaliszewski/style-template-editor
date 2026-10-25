@@ -11,7 +11,7 @@ Styl inspirowany **@BkashJosi** — [hermes-nous-calendar](https://github.com/Bk
 ## Funkcje
 
 - Formaty 1080×1080, 1080×1350, 1080×1920, 1920×1080, A4, własny; orientacja pionowa/pozioma.
-- Teksty w dowolnym miejscu: Anton, Instrument Sans, JetBrains Mono (offline), grubość (tylko istniejące — bez sztucznego pogrubienia), rozmiar, kolor, odstęp liter, interlinia, WIELKIE LITERY, wyrównanie (w tym justowanie).
+- Teksty w dowolnym miejscu: Anton, Instrument Sans, JetBrains Mono (offline), grubość (tylko istniejące — bez sztucznego pogrubienia), rozmiar, kolor, odstęp liter, interlinia, WIELKIE LITERY, wyrównanie (w tym justowanie) i wyrównanie pionowe góra / środek / dół.
 - Boxy/karty: rozmiar, tło, ramka, zaokrąglenie, lewy pasek, konfigurowalny cień.
 - Grafiki PNG/JPG (przeciągnij i upuść): proporcje, contain/cover/rozciągnij, krycie, ramka, pasek, cień „ramka” lub „kontur”.
 - Presety: Karta dnia, Statystyka, Pigułka. Nagłówek „style inspired by @BkashJosi” (konfigurowalny, można ukryć).
